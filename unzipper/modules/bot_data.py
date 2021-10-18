@@ -64,7 +64,7 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
+Hi **{}**, I'm **Unarchiver Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
