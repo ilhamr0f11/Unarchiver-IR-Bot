@@ -25,7 +25,7 @@ And Some other features 🔥!
 - `BOT_OWNER` - Your Telegram Account ID. Get it from [@MissRose_bot](https://t.me/MissRose_bot) (Start the bot and send <samp>/info</samp> command).
 - `BOT_TOKEN` - Bot Token of Your Telegram Bot. Get it from [@BotFather](https://t.me/BotFather)
 - `MONGODB_URL` - Your MongoDB url, Tutorial [here](https://www.youtube.com/watch?v=0aYrJTfYBHU)
-- `LOGS_CHANNEL` - Make a private channel and forward a message from that channel to [@ChannelidHEXbot](https://t.me/ChannelidHEXbot) to Get this. (Make sure to add Your bot to the channel as an admin)
+- `LOGS_CHANNEL` - Your Channel ID
 
 </br>
 
@@ -38,7 +38,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **
 <h3 align="center">〕 With Heroku 〔</h3>
 
 <p align="center">
-  <a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot">
+  <a href="https://www.heroku.com/deploy?template=https://github.com/ilhamr0f11/Unarchiver-IR-Bot">
     <img src="https://www.herokucdn.com/deploy/button.svg">
   </a>
 </p>
@@ -84,13 +84,3 @@ If you found a bug in this bot please open an [issue](https://github.com/Itz-for
 </a>
 
 </br>
-
-
-<h1 align="center">》 License & Copyright 《</h1>
-
-```
-Copyright (c) 2021 Itz-fork
-
-This Unzipper-Bot repository is licensed under GPLv3 License (https://github.com/Itz-fork/Unzipper-Bot/blob/master/LICENSE)
-Copying or Modifying Any Part of the code without permission is strictly prohibited
-```
