@@ -11,7 +11,7 @@ from pyrogram.errors import FloodWait
 # Send file to a user
 async def send_file(unzip_bot, c_id, doc_f, query, full_path):
     try:
-        await unzip_bot.send_document(chat_id=c_id, document=doc_f, caption="**Extracted by @NexaUnzipper_Bot**")
+        await unzip_bot.send_document(chat_id=c_id, document=doc_f, caption="**Extracted by @unarchiverirbot**")
         os.remove(doc_f)
     except FloodWait as f:
         asyncio.sleep(f.x)
