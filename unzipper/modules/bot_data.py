@@ -87,7 +87,7 @@ Channel:@irbotsupdate
     """
 
     ABOUT_TXT = """
-**About Nexa Unzipper Bot,**
+**About Unarchiver IR Bot,**
 
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
