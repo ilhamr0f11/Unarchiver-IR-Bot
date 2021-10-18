@@ -75,7 +75,7 @@ def check_logs():
                 print("TF? Chat is not private")
                 return
             else:
-                client.send_message(chat_id=Config.LOGS_CHANNEL, text="`Unzipper-Bot has Successfully Started!` \n\n**Powered by @NexaBotsUpdates**")
+                client.send_message(chat_id=Config.LOGS_CHANNEL, text="`Unarchiver IR Bot has Successfully Started!` \n\n**Powered by @IrBotsUpdate**")
         else:
             print("No Log Channel ID is Given! Imma leaving Now!")
             exit()
